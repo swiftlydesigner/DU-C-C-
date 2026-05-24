@@ -4,3 +4,6 @@ Work Submission for DU's C/C++ Course
 
 # Assignment 2
 Create a text-based game using procedural C++.
+
+# Assignment 5
+Create a text-based game using OOP C++. (Completed May 23, 2026)
