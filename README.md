@@ -8,5 +8,8 @@ Create a text-based game using procedural C++.
 # Assignment 3
 Password Generator, PRNG, and Entropy Analysis in C. (Completed May 25, 2026)
 
+# Assignment 4
+Bitwise Steganography (Completed May 26, 2026)
+
 # Assignment 5
 Create a text-based game using OOP C++. (Completed May 23, 2026)
