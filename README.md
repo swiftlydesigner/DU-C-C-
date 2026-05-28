@@ -13,3 +13,6 @@ Bitwise Steganography (Completed May 26, 2026)
 
 # Assignment 5
 Create a text-based game using OOP C++. (Completed May 23, 2026)
+
+# EC Conway's Game of Life
+Conway's Game of Life (Completed May 27, 2026)
